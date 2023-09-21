@@ -1,17 +1,17 @@
 {
     "learning": [
-        "langage-models",
+        "language-models",
         "probabilistic-models",
         "pytorch-memo",
         "python-memo",
-        "antoencoder-learn",
         "dimensionality-reduction",
+        "autoencoder-learn",
         "GAN",
-        "generative-models",
         "reinforcement-learning",
         "sound-processing",
-        "neural-network",
-        "backpropagation"
+        "backpropagation",
+        "generative-models",
+        "neural-network"
     ],
     "development": [
         "dlprog",
