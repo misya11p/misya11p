@@ -1,0 +1,24 @@
+{
+    "learning": [
+        "langage-models",
+        "probabilistic-models",
+        "pytorch-memo",
+        "python-memo",
+        "antoencoder-learn",
+        "dimensionality-reduction",
+        "GAN",
+        "generative-models",
+        "reinforcement-learning",
+        "sound-processing",
+        "neural-network",
+        "backpropagation"
+    ],
+    "development": [
+        "dlprog",
+        "munotes",
+        "gitamago",
+        "doshitanhanashikikoka-typing"
+    ]
+}
+
+
