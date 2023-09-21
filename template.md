@@ -1,6 +1,6 @@
 # こんにちは or Hello
 
-Learning Deep-Learning, Machine-Learning, etc. And development some tools, web-apps, etc.
+Learning deep-learning, machine-learning, etc. And development some tools, web-apps, etc.
 
 ## Learning
 
