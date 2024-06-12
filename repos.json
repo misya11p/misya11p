@@ -9,9 +9,10 @@
     ],
     "development": [
         "dlprog",
-        "munotes",
-        "gitamago",
-        "doshitanhanashikikoka-typing"
+        "munotes"
+    ],
+    "project": [
+        "scikit-learn-scratch"
     ]
 }
 

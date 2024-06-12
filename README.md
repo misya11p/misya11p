@@ -18,6 +18,10 @@ Learning deep-learning, machine-learning, etc. And development some tools, web-a
 <p>
 <a href="https://github.com/misya11p/dlprog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=misya11p&repo=dlprog" /></a>
 <a href="https://github.com/misya11p/munotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=misya11p&repo=munotes" /></a>
-<a href="https://github.com/misya11p/gitamago"><img src="https://github-readme-stats.vercel.app/api/pin/?username=misya11p&repo=gitamago" /></a>
-<a href="https://github.com/misya11p/doshitanhanashikikoka-typing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=misya11p&repo=doshitanhanashikikoka-typing" /></a>
+</p>
+
+## Project
+
+<p>
+<a href="https://github.com/misya11p/scikit-learn-scratch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=misya11p&repo=scikit-learn-scratch" /></a>
 </p>

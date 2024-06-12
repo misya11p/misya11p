@@ -8,6 +8,7 @@ REPOS = "repos.json"
 USER_ID = "misya11p"
 LEARNING_BLOCK = "<learning-block>"
 DEVELOPMENT_BLOCK = "<development-block>"
+PROJECT_BLOCK = "<project-block>"
 limit = 10
 
 def main():
@@ -15,13 +16,18 @@ def main():
         repos = json.load(f)
     learning_repos = repos["learning"]
     development_repos = repos["development"]
+    project_repos = repos["project"]
+
+    learning_block = generate_block(learning_repos[:limit])
+    development_block = generate_block(development_repos[:limit])
+    project_block = generate_block(project_repos[:limit])
 
     with open(TEMPLATE) as f:
         readme = f.read()
-    learning_block = generate_block(learning_repos[:limit])
-    development_block = generate_block(development_repos[:limit])
+
     readme = readme.replace(LEARNING_BLOCK, learning_block)
     readme = readme.replace(DEVELOPMENT_BLOCK, development_block)
+    readme = readme.replace(PROJECT_BLOCK, project_block)
 
     with open(README, "w") as f:
         f.write(readme)
